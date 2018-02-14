@@ -1,4 +1,8 @@
+package com.talfinder.assessment;
 import org.junit.Test;
+
+import com.talfinder.assessment.Node;
+import com.talfinder.assessment.TraverseTree;
 
 import static org.junit.Assert.*;
 
